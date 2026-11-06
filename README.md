@@ -11,6 +11,7 @@ I build full-stack web apps. The work below runs in public; every claim has a li
 A Next.js 16 / Supabase sportsbook for a Nigerian private beta: live EPL fixtures and odds, single and accumulator bet slips, an atomic coin ledger, and automatic settlement across four markets.
 
 **Stack:** Next.js 16.4 · React 19 · TypeScript · Supabase Postgres/Auth · Drizzle · Tailwind 4
+
 **Live:** https://betapp-staging.vercel.app/ · **Code:** https://github.com/astadevelgit/betapp
 
 - 9 Postgres migrations, 17 tables, 12 RLS policies; every wallet mutation goes through an idempotent RPC
