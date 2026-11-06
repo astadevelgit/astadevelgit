@@ -1,6 +1,6 @@
-# astadevelgit
+# Kai Otasowie
 
-**Full-stack developer** · Next.js · TypeScript · Supabase
+**Full-stack developer** · Next.js · TypeScript · Supabase · BSc Computer Science
 
 I build full-stack web apps. The work below runs in public; every claim has a link or a command behind it.
 
@@ -28,4 +28,4 @@ TypeScript · React 19 · Next.js · Tailwind CSS 4 · Supabase (Postgres, Auth,
 
 ## Contact
 
-GitHub: [@astadevelgit](https://github.com/astadevelgit)
+[Email](mailto:astadevel@outlook.com) · [GitHub](https://github.com/astadevelgit) · [Résumé (PDF)](https://github.com/astadevelgit/resume/blob/main/Kai-Otasowie-Resume.pdf)
